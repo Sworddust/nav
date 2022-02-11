@@ -29,7 +29,7 @@ const c: IConfig = {
 
   // Your website address is good for SEO
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://github.com/Sworddust/nav',
 
   // Site title
   // 网站标题
