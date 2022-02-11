@@ -108,4 +108,15 @@ export interface IConfig {
   gitRepoUrl: string
   branch: string
   hashMode: boolean
+  loading: string
+  showGithub: boolean
+  homeUrl?: string
+  title: string
+  description: string
+  keywords: string
+  theme: ThemeType
+  footerContent?: string|null
+  iconfontUrl?: string
+  baiduStatisticsUrl?: string
+  cnzzStatisticsUrl?: string
 }
