@@ -120,4 +120,5 @@ export interface IConfig {
   iconfontUrl?: string
   baiduStatisticsUrl?: string
   cnzzStatisticsUrl?: string
+  simThemeConfig: object
 }
