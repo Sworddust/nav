@@ -21,7 +21,7 @@ const c: IConfig = {
 
   // Whether the route is in Hash mode, if it is deployed on github pages, it must be set to true
   // 路由是否Hash模式, 如果是部署在github pages 务必设为 true
-  hashMode: true,
+  hashMode: false,
 
   // Whether to show the Github icon in the upper right corner
   // 是否显示右上角的 Github 图标
